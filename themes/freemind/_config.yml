@@ -1,4 +1,4 @@
-slogan: "Yet another bootstrap theme."
+slogan: "It is not in the stars to hold our destiny but in ourselves. - William Shakespeare"
 
 theme: cerulean
 inverse: true
@@ -12,13 +12,13 @@ menu:
     url: categories
     intro: "All the categories."
     icon: "fa fa-folder"
-  - title: Tags
-    url: tags
-    intro: "All the tags."
+  - title: Gallery
+    url: gallery
+    intro: "All the gallery."
     icon: "fa fa-tags"
   - title: About
     url: about
-    intro: "About me."
+    intro: "About Us."
     icon: "fa fa-user"
 
 links:
@@ -37,15 +37,15 @@ links:
 
 widgets:
 - search
-- recent_comments
+#- recent_comments
 - category
 - tagcloud
 - recent_posts
-- links
+#- links
 
 rss:
 fancybox: true
-favicon: favicon.png
+favicon: /img/favicon-32x32.ico
 duoshuo_shortname: #freemindtheme
 
 # Recommended posts
@@ -62,7 +62,7 @@ baidu_tongji:
   siteid:
 
 # search
-# swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+#swiftype_key: ZP2ZSuHgipSZfRyU8uTR
 
 # share widgets
 bdshare: true
