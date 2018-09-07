@@ -45,7 +45,7 @@ widgets:
 
 rss:
 fancybox: true
-favicon: /img/favicon-32x32.ico
+favicon: favicon.png
 duoshuo_shortname: #freemindtheme
 
 # Recommended posts
