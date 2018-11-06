@@ -4,8 +4,7 @@ date: 2018-11-06 16:00:00
 category: scanning apps
 ---
 
-![](/img/6.jpg)
-
+![](/img/12.jpg)
 
 ##	The Differences between Scanning Apps and Book Scanners
 
