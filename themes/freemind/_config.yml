@@ -12,8 +12,8 @@ menu:
     url: categories/
     intro: "All the categories."
     icon: "fa fa-folder"
-  - title: Gallery/
-    url: gallery
+  - title: Gallery
+    url: gallery/
     intro: "All the gallery."
     icon: "fa fa-tags"
   - title: About
