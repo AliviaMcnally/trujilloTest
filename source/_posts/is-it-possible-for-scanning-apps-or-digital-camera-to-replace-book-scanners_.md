@@ -10,6 +10,8 @@ category: scanning apps
 
 In the nowadays Digital Age, people’s desire for information acquisition has substantially increased. The reading, which remains the major mean of learning, has derived a new reading approach--digital reading. It soon becomes a new trend due to its convenience and efficiency. Consequently, book scanners have come into being and is fast developing. But before we have some insight into book scanner, let’s discuss some replacement questions first, which is can scanning apps or digital camera replace book scanner?
 
+<!-- more -->
+
 The answer is of course __NO__.
 
 - Curved Surface
