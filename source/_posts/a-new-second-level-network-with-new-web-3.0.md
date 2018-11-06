@@ -1,7 +1,7 @@
 ---
 title: A New Second-level Network With New Web 3.0
 date: 2018-8-27 14:50:00
-category: Core of Blockchain
+category: core of blockchain
 ---
 
 ![](/img/4.jpg)
