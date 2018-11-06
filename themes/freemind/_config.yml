@@ -5,19 +5,19 @@ inverse: true
 
 menu:
   - title: Archives
-    url: archives
+    url: archives/
     intro: "All the articles."
     icon: "fa fa-archive"
   - title: Categories
-    url: categories
+    url: categories/
     intro: "All the categories."
     icon: "fa fa-folder"
-  - title: Gallery
+  - title: Gallery/
     url: gallery
     intro: "All the gallery."
     icon: "fa fa-tags"
   - title: About
-    url: about
+    url: about/
     intro: "About Us."
     icon: "fa fa-user"
 
