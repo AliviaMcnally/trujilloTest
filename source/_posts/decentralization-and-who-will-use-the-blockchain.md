@@ -1,7 +1,7 @@
 ---
 title: Decentralization and who will use the Blockchain
 date: 2018-8-09 09:00:00
-category: Core of Blockchain
+category: core of blockchain
 ---
 
 ![](/img/3.jpg)
