@@ -1,7 +1,7 @@
 ---
 title: Blockchain Durability and Robustness
 date: 2018-8-22 12:30:00
-category: What is Blockchain Technology
+category: technology definition
 ---
 
 ![](/img/2.jpg)
