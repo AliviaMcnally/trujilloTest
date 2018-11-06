@@ -1,7 +1,7 @@
 ---
 title: Blockchain for the Genuine World
 date: 2018-8-18 07:45:00
-category: Blockchain Apps
+category: blockchain apps
 ---
 
 ![](/img/5.jpg)
