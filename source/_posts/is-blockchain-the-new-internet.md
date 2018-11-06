@@ -1,7 +1,7 @@
 ---
 title: Is Blockchain The New Internet
 date: 2018-7-30 08:12:00
-category: What is Blockchain Technology
+category: technology definition
 ---
 
 ![](/img/1.jpg)
