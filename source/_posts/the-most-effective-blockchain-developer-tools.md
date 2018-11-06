@@ -1,7 +1,7 @@
 ---
 title: The Most Effective Blockchain Developer Tools
 date: 2018-7-26 18:30:00
-category: Blockchain Highlight
+category: highlight
 ---
 
 ![](/img/7.jpg)
