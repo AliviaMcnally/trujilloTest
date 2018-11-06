@@ -1,7 +1,7 @@
 ---
 title: How To Keep Your Cryptocurrency Risk free
 date: 2018-8-05 08:00:00
-category: Blockchain Highlight
+category: highlight
 ---
 
 ![](/img/8.jpg)
