@@ -1,7 +1,7 @@
 ---
 title: 4 Applications Best On Real World Blockchain
 date: 2018-9-01 09:50:00
-category: Blockchain Apps
+category: blockchain apps
 ---
 
 ![](/img/6.jpg)
