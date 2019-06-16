@@ -4,6 +4,8 @@ date: 2019-06-17 00:25:00
 category: manufacturing
 ---
 
+![](/img/13.jpg)
+
 CNC machining, or Computer Numerical Control machining, is a modern manufacturing method that is widely used in the manufacturing industry. It is considered as a huge breakthrough in this business. With this technology, computer control machines have replaced traditional machines including center lathes and vertical millers, which are mainly operated by engineers and machinists, increasing working efficiency greatly. However, as everything in this universe has advantages and disadvantages both, CNC Machining also included in this. Let’s take a look at some of the pros and cons of this technology.
 
 ### Pros
