@@ -28,5 +28,5 @@ As CNC machines are pre-programmed, operators don’t need to master the skills 
 #### Conclusion
 With the information mentioned above, it is clear that CNC machining has pros that outweigh the cons as a revolutionary technology. You are allowed to produce targeted parts with great accuracy in a much shorter time, with manpower as few as possible as well. 
 
-For people who need a medium or high production volume of CNC parts, tasks can be well finished with the help of a professional manufacturing company. [RapidDirect] (https://www.rapiddirect.com/) is an industry-leading designer and manufacturer of rapid prototyping services, whose CNC machining service features streamlining the manufacturing process with automation, wide range of compatible materials, a high degree of accuracy and precision and rapid manufacturing for medium to high production volumes.
+For people who need a medium or high production volume of CNC parts, tasks can be well finished with the help of a professional manufacturing company. [RapidDirect](https://www.rapiddirect.com/) is an industry-leading designer and manufacturer of rapid prototyping services, whose CNC machining service features streamlining the manufacturing process with automation, wide range of compatible materials, a high degree of accuracy and precision and rapid manufacturing for medium to high production volumes.
 
