@@ -1,7 +1,7 @@
 ---
 title: How to Identify a Good Rugged Tablet Manufacturer
 date: 2019-02-18 19:24:00
-category: tablets
+category: manufacturing
 ---
 
 ### 4 Important Elements of a Rugged Tablets Manufacturer
