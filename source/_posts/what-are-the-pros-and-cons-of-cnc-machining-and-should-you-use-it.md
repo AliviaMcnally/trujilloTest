@@ -14,6 +14,8 @@ CNC machines are able to operate constantly 24/7, which means you can use them i
 #### High precision 
 CNC machining is designed and pre-programmed by computers. Therefore, these machines have the ability to replicate every detail of the original design with high precision. You can always manufacture exact duplicates that remain true to the product design. To improve reliability, you can also update the software on a regular basis.
 
+<!-- more -->
+
 #### Less manpower
 Since CNC tasks are managed by computers, more operators can be reduced in the workplace. In many cases, only one or two trained employees are enough to be responsible for all the tasks once the machines are programmed. So, you can reduce the labor cost and invest more money in other departments. 
 
